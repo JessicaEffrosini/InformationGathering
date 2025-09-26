@@ -24,8 +24,10 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 ## Whois.com
 <img width="1917" height="1084" alt="whois" src="https://github.com/user-attachments/assets/a730893c-9228-4160-af33-7e646d6fd97e" />
+
 ## iplocator
 <img width="1076" height="781" alt="iplocator" src="https://github.com/user-attachments/assets/e07b225d-2322-48c5-9eff-ea7d2f64330f" />
+
 ## Web archive
 <img width="1916" height="1078" alt="webarchive" src="https://github.com/user-attachments/assets/534035d6-085a-4625-8378-026cf952677e" />
 
